@@ -16,4 +16,5 @@ Enter the selection:
 ```
 
 Download or save the test custom-design T-shirt 👚 below and rename it as 'tshirt.png' to test the model:
+
 ![tshirt](https://github.com/vividblueprint/Neural_Networks-from-Scratch/assets/78911344/6fdfb097-9b9d-49a7-97c5-5ef2e0e54e2b)
