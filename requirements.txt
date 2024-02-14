@@ -1,0 +1,4 @@
+nnfs
+numpy
+zipfile36
+opencv-python
